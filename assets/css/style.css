@@ -3,3 +3,8 @@ img{
     max-width: 500px;
     margin: auto;
 }
+
+.testClass{
+    max-height: 200px;
+    max-width: 200px;
+}
