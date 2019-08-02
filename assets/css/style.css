@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(83, 83, 83);
+}
+
 img{
     max-height: 300px;
     max-width: 500px;
@@ -5,6 +9,6 @@ img{
 }
 
 .testClass{
-    max-height: 200px;
-    max-width: 200px;
+    height: 200px;
+    width: 100%;
 }
