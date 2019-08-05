@@ -16,6 +16,6 @@ img{
 .videoBox{
     border: 2px solid gold;
     width: 50%;
-    height: 300px;
+    height: 100%;
     margin: auto;
 }
