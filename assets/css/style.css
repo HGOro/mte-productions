@@ -12,3 +12,10 @@ img{
     height: 200px;
     width: 100%;
 }
+
+.videoBox{
+    border: 2px solid gold;
+    width: 50%;
+    height: 300px;
+    margin: auto;
+}
